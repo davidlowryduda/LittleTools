@@ -16,6 +16,13 @@ It is **insecure**. But I use it all the time, especially to transfer things
 to or from annoying devices like a tablet.
 
 
+## combine_lecture_notes ##
+
+Sometimes I want to read through a set of notes that are posted as per-class
+PDFs. But I want them like a book. Combining them is easy, but this makes it
+easier.
+
+
 ## Caution ##
 
 I use these tools in *practical* ways, but no necessarily *safe* ways. These
